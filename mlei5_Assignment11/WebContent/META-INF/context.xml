@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/mlei5_Assignment10">
+
+	<Resource global="jdbc/regDB" name="jdbc/regDB"
+		auth="Container" driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://sql3.freemysqlhosting.net:3306/sql3261382"
+		username="sql3261382" password="vdZsAs2fqt" maxActive="100"
+		maxIdle="30" maxWait="10000" logAbandoned="true"
+		removeAbandoned="true" removeAbandonedTimeout="60"
+		type="javax.sql.DataSource" />
+</Context>

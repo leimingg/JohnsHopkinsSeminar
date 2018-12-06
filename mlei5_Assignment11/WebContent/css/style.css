@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+div.header {
+	background-size: 100% auto;
+	background-color: rgb(0, 101, 174);
+	width: 100%;
+}
+
+.contact {
+	float: left;
+	width: 100px;
+	text-align: left;
+	padding-right: 10px;
+}
+
+h3 {
+	text-align: center;
+	border-bottom: 1px solid #a1a1a1;
+}
+
+div.main {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+div.input {
+	border-radius: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #a1a1a1;
+	padding: 10px;
+}
+
+body {
+	background-color: #FFFFD0;
+	width: 100%
+}
+
+table {
+	border-collapse: collapse;
+}
+
+tr {
+	padding: 5px;
+	border-bottom: 1px solid #999;
+}
