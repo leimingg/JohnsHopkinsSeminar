@@ -1,4 +1,6 @@
 # JohnsHopkinsSeminar
+This web project is currently hosted in school server: https://dev8.jhuep.com/mlei5_Assignment11/
+
 Source code of Johns Hopkins Seminar
 
 -This web application allows users to register courses. 
